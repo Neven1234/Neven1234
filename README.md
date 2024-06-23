@@ -45,8 +45,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Neven1234/Neven1234/output/snake.svg" alt="Snake animation" />
 
 ###
