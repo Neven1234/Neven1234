@@ -46,6 +46,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Neven1234/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/Neven1234/Neven1234/blob/output/github-contribution-grid-snake.svg)
 
 ###
